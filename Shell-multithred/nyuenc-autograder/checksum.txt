@@ -1,0 +1,14 @@
+852b9e90a0e0c4eff8d9588cb16fd326d5fd805d  aarch64/nyuenc
+a077b42a88c815a79ca35ba86930d8b06137b89e  inputs/1.in
+e6434bc401f98603d7eda504790c98c67385d535  inputs/2.in
+1416b0e9065937ce37e6033a5866efde111f11d7  inputs/3.in
+a81bf0cadbd8bc6e541daecfbe682e6c54cafb8f  inputs/4.in
+a0a2c35203acbc0604e4a9480709149e78e9a94d  inputs/5.in
+6e181dbe884e9783b719cfb7ae9f72e8425fb31b  refoutputs/1.out
+4a9fc2e7c203612ca57bd2e4c39e871144d653bf  refoutputs/2.out
+939642fabc47fcd69f02fba45f45dec5833a93b3  refoutputs/3.out
+9fb2d9f6c0859d059ffcd563e7d013dbe19c143e  refoutputs/4.out
+9e03b818c73b1ee113132f1e32fceb9582221f85  refoutputs/5.out
+9fb2d9f6c0859d059ffcd563e7d013dbe19c143e  refoutputs/6.out
+8f042c48d01721fde4540cbf5e59336768cfee7b  refoutputs/7.out
+fb037758294143f4bd10d8d9e796e50e0b0ea3ae  x86_64/nyuenc
