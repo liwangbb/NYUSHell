@@ -1,5 +1,5 @@
 # File Recovery for Fat32
-Author: Li Wang, Student# N15155142
+
 
 ## Ideas for recover contiguous file
 1. Create a `is_recoverable` function to check any deleted file matched with given filename in the root directory.

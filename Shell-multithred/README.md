@@ -1,7 +1,5 @@
 # Lab 3: Encoder
-Author: Li Wang
-
-Student# N15155142
+ 
 
 ## SYNOPSIS
 ```
@@ -66,4 +64,3 @@ void *memcpy(void *to, const void *from, size_t numBytes);
 [unsigned char in C with Examples](https://www.geeksforgeeks.org/unsigned-char-in-c-with-examples/)
 
 [Producer-Consumer. Consumer wait while all producers are done, poison pill](https://stackoverflow.com/questions/52525656/producer-consumer-consumer-wait-while-all-producers-is-done-poison-pill)
-

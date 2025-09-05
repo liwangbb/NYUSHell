@@ -1,6 +1,6 @@
 # OS lab2 references
 
-Author: Li Wang # N15155142
+ 
 
 
 
